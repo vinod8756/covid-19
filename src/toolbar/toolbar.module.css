@@ -1,0 +1,31 @@
+.root{ 
+    flex-grow: 1,
+  }
+
+.menuButton {
+    margin-right : "theme.spacing(2)",
+  }  
+
+.title {
+    flex-grow: 1,
+  }  
+.dropdown{
+  width:250px;
+  background-color: white; 
+  
+}
+
+.Appbar{
+  height: 70px;
+  background-color: transparent;
+}
+
+.flag {
+ width : 35px; 
+ height : 20px ;
+ border : 1px solid black;
+}
+
+.map{
+  display: none;
+}
